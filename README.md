@@ -8,4 +8,4 @@ The code for the Azure Function and Stream Analytics job are found in the blog p
 
 ![](http://soapfault.com/blog/wp-content/uploads/2016/11/iothub-scenario1.png)
 
-![]http://soapfault.com/blog/wp-content/uploads/2016/11/iothub-scenario1.png)
+![](http://soapfault.com/blog/wp-content/uploads/2016/11/iothub-scenario1.png)
