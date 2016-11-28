@@ -1,6 +1,6 @@
 # iot-demo
 
-This is the code used for the Raspberry Pi 3 and the C# console app simulator from this blog post
+This is the code used for the Raspberry Pi 3 and the C# console app simulator described in my blog post here.
 
 http://soapfault.com/blog/2016/11/power-of-powerbi-with-azure-stream-analytics-iothub
 
